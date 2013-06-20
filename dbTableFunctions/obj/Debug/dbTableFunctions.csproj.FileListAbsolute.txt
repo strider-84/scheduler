@@ -1,0 +1,14 @@
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\dbTableFunctions.dll
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\dbTableFunctions.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\ConnectToMySQL.dll
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\ConnectToMySQL.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\obj\Debug\dbTableFunctions.dll
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\obj\Debug\dbTableFunctions.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\obj\Debug\dbTableFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\dbTableFunctions.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\dbTableFunctions.pdb
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\ConnectToMySQL.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\bin\Debug\ConnectToMySQL.pdb
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\obj\Debug\dbTableFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\obj\Debug\dbTableFunctions.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\dbTableFunctions\obj\Debug\dbTableFunctions.pdb

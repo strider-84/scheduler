@@ -1,0 +1,15 @@
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\TabControlGlobalVariables.dll
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\TabControlGlobalVariables.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\ConnectToMySQL.dll
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\ConnectToMySQL.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\obj\Debug\TabControlGlobalVariables.dll
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\obj\Debug\TabControlGlobalVariables.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\obj\Debug\TabControlGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\TabControlGlobalVariables.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\TabControlGlobalVariables.pdb
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\ConnectToMySQL.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\MySql.Data.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\bin\Debug\ConnectToMySQL.pdb
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\obj\Debug\TabControlGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\obj\Debug\TabControlGlobalVariables.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\TabControlGlobalVariables\obj\Debug\TabControlGlobalVariables.pdb

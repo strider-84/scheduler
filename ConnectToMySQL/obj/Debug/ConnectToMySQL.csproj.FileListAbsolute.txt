@@ -1,0 +1,11 @@
+c:\users\chinmaym\documents\visual studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\bin\Debug\ConnectToMySQL.dll
+c:\users\chinmaym\documents\visual studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\bin\Debug\ConnectToMySQL.pdb
+c:\users\chinmaym\documents\visual studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\bin\Debug\MySql.Data.dll
+c:\users\chinmaym\documents\visual studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\obj\Debug\ConnectToMySQL.dll
+c:\users\chinmaym\documents\visual studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\obj\Debug\ConnectToMySQL.pdb
+C:\Users\Chinmaym\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\obj\Debug\ConnectToMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\bin\Debug\ConnectToMySQL.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\bin\Debug\ConnectToMySQL.pdb
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\obj\Debug\ConnectToMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\obj\Debug\ConnectToMySQL.dll
+C:\Users\Chinmay\Documents\Visual Studio 2012\Projects\HarvardCardSystems-Scheduler\ConnectToMySQL\obj\Debug\ConnectToMySQL.pdb

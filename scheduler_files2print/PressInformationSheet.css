@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+#headerText {
+	text-align: center;
+	font-size: 36pt;
+	font-weight: bold;
+}
+.labelTextBold {
+	font-weight: bold;
+}
+
+#wrap {
+	width: 1000px;
+	font-variant:small-caps;
+}
+
+#wrap table {
+	display: block;
+	float: left;
+	width: 300px;
+	border: 1px solid #000;
+	border-bottom: 1;
+	margin: 5px;
+	text-align:justify;
+}
+
+#wrap table td {
+	border-bottom: 1px solid #333;
+	width: 200px;
+}
